@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: MyString
+  last_name: MyString
+  birthdate: 2021-06-10
+  anniversary: 2021-06-10
+  other_milestone: 2021-06-10 08:29:48
+  address: MyString
+  email: MyString
+  budget: 1
+
+two:
+  first_name: MyString
+  last_name: MyString
+  birthdate: 2021-06-10
+  anniversary: 2021-06-10
+  other_milestone: 2021-06-10 08:29:48
+  address: MyString
+  email: MyString
+  budget: 1

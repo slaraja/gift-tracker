@@ -1,0 +1,2 @@
+class Giftee < ApplicationRecord
+end
